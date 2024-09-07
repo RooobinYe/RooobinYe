@@ -21,10 +21,6 @@ VS Code                  5 hrs 33 mins       ███████████�
 IntelliJ IDEA            1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/RooobinYe/RooobinYe/main/assets/bar_graph.png)
-
 
 <!--END_SECTION:waka-->
 
