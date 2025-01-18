@@ -18,10 +18,17 @@
 ## My Stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rooobinye&theme=dark">
-  <img alt="Ye Zhenrong's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=rooobinye&theme=default">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rooobinye&theme=dark&card_width=495">
+    <img alt="Ye Zhenrong's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=rooobinye&theme=default&card_width=495">
+  </picture>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@rooobinye&theme=dark&langs_count=5&custom_title=Ye Zhenrong's WakaTime Stats (last 7 days)&display_format=percent&card_width=495">
+    <img alt="Ye Zhenrong's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rooobinye&theme=default&langs_count=5&custom_title=Ye Zhenrong's WakaTime Stats (last 7 days)&display_format=percent&card_width=495">
+  </picture>
 </a>
 
 <!--
