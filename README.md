@@ -15,7 +15,7 @@
 
 <!--END_SECTION:waka-->
 
-## Stats
+## My Stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
