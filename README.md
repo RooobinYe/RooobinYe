@@ -1,19 +1,9 @@
 ## Hi there 👋
+🙋 I am committed to making the world a better and more open place.
 
+## My Waka ⏰
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%206%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
-
-
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/23eafba9-51dd-41ae-946e-a3ac0b1b77d6.svg)](https://wakatime.com/@23eafba9-51dd-41ae-946e-a3ac0b1b77d6)
 
 ## My Stats 📈
 
