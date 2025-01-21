@@ -1,5 +1,5 @@
 ## Hi there 👋
-🙋 I am committed to making the world a better and more open place.
+💬 The night is long that never finds the day. — Shakespeare, *Macbeth*, Act IV, Scene III.
 
 ## My Waka ⏰
 
